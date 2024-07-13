@@ -3,7 +3,7 @@
   "Name": "Praetorium Roulette",
   "InternalName": "PraetoriumRoulette",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "No more daddy issues for Nero",
+  "Description": "No more daddy issues",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Plumie/Dalamud.PraetoriumRoulette",
   "Tags": [
@@ -17,6 +17,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/Data/icon.png",
-  "Punchline": "No more daddy issues for Nero",
+  "Punchline": "No more daddy issues",
   "AcceptsFeedback": true
 }
