@@ -8,5 +8,7 @@
         "roulette",
         "praetorium",
         "cutscenes"
-    ]
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/Data/thumbnail.png",
+    "RepoUrl": "https://github.com/Plumie/Dalamud.PraetoriumRoulette"
 }
