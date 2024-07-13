@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Plume",
+        "Name": "Praetorium Roulette",
+        "Punchline": "No more daddy issues for Nero",
+        "Description": "No more daddy issues for Nero",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "roulette",
+            "praetorium",
+            "cutscenes"
+        ],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "AcceptsFeedback": false,
+        "LastUpdated": 1720003516,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/BetterTargetPlugin/bin/x64/Release/PraetoriumRoulette/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/BetterTargetPlugin/bin/x64/Release/PraetoriumRoulette/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/BetterTargetPlugin/bin/x64/Release/PraetoriumRoulette/latest.zip",
+    }
+]

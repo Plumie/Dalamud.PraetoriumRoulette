@@ -1,0 +1,20 @@
+{
+  "Author": "Plume",
+  "Name": "Praetorium Roulette",
+  "InternalName": "PraetoriumRoulette",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "No more daddy issues for Nero",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "roulette",
+    "praetorium",
+    "cutscenes"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "No more daddy issues for Nero",
+  "AcceptsFeedback": true
+}
