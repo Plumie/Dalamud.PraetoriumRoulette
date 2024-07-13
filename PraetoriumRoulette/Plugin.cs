@@ -48,15 +48,30 @@ public sealed class Plugin : IDalamudPlugin
 
         Address = new CutsceneAddressResolver();
         Address.Setup(SigScanner);
+
+        if (Address.Valid)
+        {
+            if (Configuration.IsEnabled)
+            {
+                SetEnabled(true);
+            }
+        }
+        else
+        {
+            Dispose();
+            return;
+        }
     }
 
     public void Dispose()
     {
         WindowSystem.RemoveAllWindows();
-
         MainWindow.Dispose();
 
         CommandManager.RemoveHandler(CommandName);
+
+        SetEnabled(false);
+        GC.SuppressFinalize(this);
     }
 
     private void OnCommand(string command, string args)

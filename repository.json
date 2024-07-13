@@ -10,7 +10,7 @@
             "cutscenes"
         ],
         "InternalName": "PraetoriumRoulette",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/Plumie/Dalamud.PraetoriumRoulette",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,

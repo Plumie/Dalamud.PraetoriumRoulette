@@ -5,6 +5,7 @@
   "AssemblyVersion": "1.0.0.0",
   "Description": "No more daddy issues for Nero",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Plumie/Dalamud.PraetoriumRoulette",
   "Tags": [
     "roulette",
     "praetorium",
@@ -15,6 +16,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/Data/icon.png",
   "Punchline": "No more daddy issues for Nero",
   "AcceptsFeedback": true
 }
