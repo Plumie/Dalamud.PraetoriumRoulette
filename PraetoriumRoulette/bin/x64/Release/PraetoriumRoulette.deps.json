@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "PraetoriumRoulette/1.0": {
+      "PraetoriumRoulette/1.0.0.2": {
         "dependencies": {
           "DalamudPackager": "11.0.0"
         },
@@ -18,7 +18,7 @@
     }
   },
   "libraries": {
-    "PraetoriumRoulette/1.0": {
+    "PraetoriumRoulette/1.0.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
