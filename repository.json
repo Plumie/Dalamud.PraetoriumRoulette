@@ -10,7 +10,7 @@
             "cutscenes"
         ],
         "InternalName": "PraetoriumRoulette",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "https://github.com/Plumie/Dalamud.PraetoriumRoulette",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
@@ -18,7 +18,7 @@
         "IconUrl": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/Data/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": "1732337759",
+        "LastUpdated": "1732337751",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/PraetoriumRoulette/bin/x64/Release/PraetoriumRoulette/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Plumie/Dalamud.PraetoriumRoulette/main/PraetoriumRoulette/bin/x64/Release/PraetoriumRoulette/latest.zip",
