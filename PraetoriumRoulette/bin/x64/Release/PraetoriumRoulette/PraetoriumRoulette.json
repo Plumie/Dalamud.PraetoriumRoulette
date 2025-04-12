@@ -2,7 +2,7 @@
   "Author": "Plume",
   "Name": "Praetorium Roulette",
   "InternalName": "PraetoriumRoulette",
-  "AssemblyVersion": "1.0.0.2",
+  "AssemblyVersion": "1.0.0.3",
   "Description": "No more daddy issues",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Plumie/Dalamud.PraetoriumRoulette",
@@ -11,7 +11,7 @@
     "praetorium",
     "cutscenes"
   ],
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
